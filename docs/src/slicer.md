@@ -15,6 +15,8 @@ SuperSlicer is a free and open-source project. It can be obtained directly from 
 The following video shows how to manually obtain and install the profiles on SuperSlicer v2.3.57 and below:
 <center><iframe width="1000" height="600" src="https://www.youtube.com/embed/cL5WGpLS94k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+[Download the profiles](https://github.com/top-gun/SuSi-RatRig-2.3.57/blob/main/RatRig.zip)
+
 ### Configuring SuperSlicer for the V-Minion
 The following video gives an overview on configuring SuperSlicer to connect with your V-Minion:
 <center><iframe width="1000" height="600" src="https://www.youtube.com/embed/5o2UqtdWnn0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
